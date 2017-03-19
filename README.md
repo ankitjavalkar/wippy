@@ -2,7 +2,7 @@
 
 
 Wippy is a Python package for generating interesting Work In Progress messages similar to the one 
-found on [Rust Language](http://www.rust-lang.org) website
+that was earlier found on [Rust Language](https://web.archive.org/web/20150320100139/http://www.rust-lang.org/) website
 
 ## Installation
 From within the ```wippy``` directory run,
